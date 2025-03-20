@@ -1,1 +1,2 @@
 # Breast-Cancer-Prediction
+Developed a high-accuracy predictive model for breast cancer detection using Neural Networks, achieving 97% accuracy with a 1.3% loss. Leveraged sklearn datasets for training and evaluation, implementing advanced preprocessing and feature selection techniques. Utilized Python libraries such as NumPy, Pandas, and Matplotlib for data analysis and visualization. Designed an AI-driven approach to assist in early cancer detection, improving diagnostic efficiency.
